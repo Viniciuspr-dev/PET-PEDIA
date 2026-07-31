@@ -48,33 +48,7 @@ Desenvolver um sistema desktop para gerenciamento de animais de estimação, per
 - Persistência dos dados em banco MySQL
 - Navegação entre telas
 - Versionamento utilizando Git e GitHub
-
----
-
-## Estrutura do Projeto
-
-```
-src/
-├── Conexao
-├── DAO
-├── Models
-├── Telas
-└── Util
-```
-
----
-
-## Banco de Dados
-
-O sistema utiliza MySQL para armazenamento dos dados.
-
-Atualmente possui tabelas para:
-
-- Usuários
-- Pets
-
-com relacionamento entre elas por chave estrangeira (`idUsuario`).
-
+  
 ---
 
 ## Autor
