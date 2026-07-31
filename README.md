@@ -53,4 +53,4 @@ Desenvolver um sistema desktop para gerenciamento de animais de estimação, per
 
 ## Autor
 
-Projeto desenvolvido por **Vinicius** como atividade do Projeto Integrador do Curso Técnico em Desenvolvimento de Sistemas.
+Projeto desenvolvido por Vinicius como atividade do Projeto Integrador do Curso Técnico em Desenvolvimento de Sistemas.
